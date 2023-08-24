@@ -7,7 +7,7 @@ third_party {
     type: GIT
     value: "https://github.com/spicklg/androidsamplelib.git"
   }
-  version: "1.0"
+  version: "1.1"
   last_upgrade_date { year: 2023 month: 8 day: 24 }
   license_type: NOTICE
 }
